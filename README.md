@@ -15,3 +15,5 @@ Para mejorar el entrenamiento del modelo se reemplazo los valores de las columna
 
 
 Alumno: Javier Horacio Vilca Martinez
+
+La Carpeta Datasets que contiene los archivos parquet no se subieron por el tamaño de las mimas
